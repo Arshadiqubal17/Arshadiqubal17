@@ -39,7 +39,7 @@
 
   
  
-   <img src="https://https://img.shields.io/badge/java-yellow?style=for-the-badge&logo=next.js&logoColor=black" />
+  
  
 </div>
 <img  width="1100px" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
@@ -60,9 +60,7 @@
 </div>
 <div>
                                                    <img  width="1100px" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
-  <h2 align='center'><b>🏆 Github Achievements</b></h2><br/>
- <p align="center"> <a href="https://github.com/Arshadiqubal17"><img src="https://github-profile-trophy.vercel.app/?username=Arshadiqubal17&margin-w=4" alt="arshad" /></a> </p>
-</div>
+ 
                                                    
  <div>
                     <img  width="1100px" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
