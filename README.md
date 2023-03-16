@@ -16,7 +16,7 @@
 
 - 📄 Check [Resume](https://drive.google.com/file/d/1g2H7AYckU4QljVOUHF0wysvU0AT10-jw/view?usp=share_link)
 
-- 📄 Know more about me and my work [Portfolio](https://arshadiqubal17-github-id3t8wczk-arshadiqbal17-yahooin.vercel.app/)
+- 📄 Know more about me and my work [Portfolio](https://arshadiqubal17-github-mwboh82si-arshadiqbal17-yahooin.vercel.app/)
 
 
 
